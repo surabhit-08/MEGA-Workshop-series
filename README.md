@@ -10,7 +10,7 @@ Stay tuned for more upcoming workshops in the series!
 
 ---
 
-## Workshop 1: Build Your Professional Website (and Enjoy Pizza!)
+## Workshop 1: Build Your Professional Website 
 In this workshop, we will guide you through creating your own personal academic website using **GitHub Pages**. 
 
 ### Workshop Details:
@@ -23,7 +23,7 @@ In this workshop, we will guide you through creating your own personal academic 
 - Learn to create and customize your own academic website.
 - Explore GitHub’s version control system for maintaining your site.
 - Centralize your academic contributions (CV, research, projects) in one place.
-- Enjoy pizza and a fun, interactive learning experience.
+
 
 ### Prerequisites:
 - No prior knowledge of GitHub or web development required!
