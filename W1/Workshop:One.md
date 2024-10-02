@@ -7,6 +7,10 @@ We plan to have you have a basic website structure up and running by the end of 
 
 ---
 
+### Objectives / TL;DR:
+- Make a github account
+- Go through basic git commands [Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
 ### 1. Install Git (Optional)
 While we will be using the github website and not any native Git applications, it is good to have a native application in case you want to use it more extensively
 Git is the version control tool you'll need to work with GitHub. Follow the guide below to install Git on your computer:
