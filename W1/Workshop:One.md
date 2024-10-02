@@ -42,7 +42,7 @@ Here are some key Git commands you'll need to know:
 - [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 **Tutorials**:  
-[Highly Recommended: Github for Poets (10-12mins x 10 videos)]([https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV))
+[Highly Recommended: Github for Poets](https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV))
 
 ---
 
