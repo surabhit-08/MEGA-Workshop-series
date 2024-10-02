@@ -7,15 +7,14 @@ We plan to have you have a basic website structure up and running by the end of 
 
 ---
 
-### 1. Install Git
+### 1. Install Git (Optional)
+While we will be using the github website and not any native Git applications, it is good to have a native application in case you want to use it more extensively
 Git is the version control tool you'll need to work with GitHub. Follow the guide below to install Git on your computer:
 
 - **Windows**: [How to Install Git on Windows](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - **macOS**: [How to Install Git on macOS](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - **Linux**: [How to Install Git on Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-**YouTube Tutorial**:  
-[How to Install Git on Your Computer](https://www.youtube.com/watch?v=2j7fD92g-gE)
 
 ---
 
@@ -23,8 +22,6 @@ Git is the version control tool you'll need to work with GitHub. Follow the guid
 If you don’t have a GitHub account, you’ll need to create one. It is as easy as going to github.com and signing up like you would for any other website. Use your uw.edu address for some extra features for free!
 
 - Link 1: [Sign Up for a GitHub Account](https://github.com/join)
-
-Link 2: [GitHub for Beginners: Creating Your First Account](https://www.youtube.com/watch?v=hR7myG7Z3iY)
 
 ---
 
@@ -45,7 +42,7 @@ Here are some key Git commands you'll need to know:
 - [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 **Tutorials**:  
-[Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+[Highly Recommended: Github for Poets (10-12mins x 10 videos)]([https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV))
 
 ---
 
