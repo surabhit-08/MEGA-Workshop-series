@@ -2,7 +2,7 @@
 
 ## Workshop 1: Build Your Professional Website
 
-Before attending the **Build Your Professional Website** workshop, please follow these steps to set up GitHub and familiarize yourself with basic Git commands. This will ensure you’re ready to hit the ground running!
+Before attending the workshop, please follow these steps to set up GitHub and familiarize yourself with basic Git commands. This will ensure you’re ready to hit the ground running!
 We plan to have you have a basic website structure up and running by the end of this workshop and you can keep updating it over the weeks/months/years... :)
 
 ---
@@ -10,8 +10,18 @@ We plan to have you have a basic website structure up and running by the end of 
 ### Objectives / TL;DR:
 - Make a github account
 - Go through basic git commands [Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- Go through the tasks at the end of this page
 
-### 1. Install Git (Optional)
+
+
+### 1. Create a GitHub Account
+If you don’t have a GitHub account, you’ll need to create one. It is as easy as going to github.com and signing up like you would for any other website. Use your uw.edu address for some extra features for free!
+
+- Link 1: [Sign Up for a GitHub Account](https://github.com/join)
+
+---
+
+### 2. Install Git (Optional)
 While we will be using the github website and not any native Git applications, it is good to have a native application in case you want to use it more extensively
 Git is the version control tool you'll need to work with GitHub. Follow the guide below to install Git on your computer:
 
@@ -19,13 +29,6 @@ Git is the version control tool you'll need to work with GitHub. Follow the guid
 - **macOS**: [How to Install Git on macOS](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - **Linux**: [How to Install Git on Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-
----
-
-### 2. Create a GitHub Account
-If you don’t have a GitHub account, you’ll need to create one. It is as easy as going to github.com and signing up like you would for any other website. Use your uw.edu address for some extra features for free!
-
-- Link 1: [Sign Up for a GitHub Account](https://github.com/join)
 
 ---
 
@@ -41,12 +44,13 @@ Here are some key Git commands you'll need to know:
 | `git push`                | Push your committed changes to GitHub                       |
 | `git pull`                | Pull the latest changes from GitHub to your local machine   |
 
- **Nice Reading**:  
+
+**Tutorials (Recommended)**:  
+[Highly Recommended: Github for Poets](https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV))
+
+ **Nice Reading(Optional)**:  
 - [Top 20 Git Commands You Should Know](https://www.hostinger.com/tutorials/20-basic-git-commands)  
 - [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-**Tutorials**:  
-[Highly Recommended: Github for Poets](https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV))
 
 ---
 
@@ -68,7 +72,7 @@ While not required, a basic understanding of HTML will help with website customi
 
 ---
 
-###  **Checklist**:
+###  **Tasks**:
 Before the workshop, please ensure you have:
 - Installed **Git** on your computer.
 - Created a **GitHub account**.
@@ -78,4 +82,4 @@ Before the workshop, please ensure you have:
 ---
 
 ### Questions?
-Feel free to reach out if you need any help with the pre-requisites. We're looking forward to seeing you at the workshop!
+Feel free to reach out on Slack if you need any help with the pre-requisites. We're looking forward to seeing you at the workshop!
