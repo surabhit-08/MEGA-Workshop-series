@@ -10,7 +10,7 @@ We plan to have you have a basic website structure up and running by the end of 
 ### Objectives / TL;DR:
 - **_Time Expected: 2-3 hours_**
 - Make a github account
-- Go through basic git commands [Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- Go through basic git commands [Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) This is the part that will take the most time.
 - Go through the tasks at the end of this page
 
 
