@@ -10,7 +10,7 @@ GitHub helps you track changes, collaborate with others, and manage versions of 
 - **Version Control**: GitHub helps you manage and track different versions of your files (e.g., CAD files, simulation scripts, or project documentation) without losing any previous versions.
 - **Collaboration**: It allows multiple team members to work on the same project and keep track of who made what changes.
 - **Backup**: With your files hosted on GitHub, they are safely stored online, reducing the risk of losing your work due to local storage failures.
-![alt text](assets/contribute-open-source-community-uploading-my-code-github-not-worry-about-accidentally-deleting.png)
+![alt text](https://github.com/surabhit-08/MEGA-Workshop-series/blob/main/assets/contribute-open-source-community-uploading-my-code-github-not-worry-about-accidentally-deleting.png)
 ---
 
 ## What is GitHub Pages?
