@@ -84,7 +84,7 @@ Before the workshop, please ensure you have:
 ---
 
 ### Questions?
-Feel free to reach out on Slack if you need any help with the pre-requisites. We're looking forward to seeing you at the workshop!
+Feel free to reach out on [Slack](https://join.slack.com/t/megaworkshopseries/shared_invite/zt-2runc2smd-bh9kD2WmasFLIV~Px0HSWQ) if you need any help with the pre-requisites. We're looking forward to seeing you at the workshop!
 
 
 ![alt txt](https://github.com/surabhit-08/MEGA-Workshop-series/blob/main/assets/thankgodforchatgpt-v0-abnj1683jhob1.png)
