@@ -52,15 +52,13 @@ GitHub helps you track changes, collaborate with others, and manage versions of 
 
 Here are some excellent examples of academic websites built using GitHub Pages in the field of Mechanical Engineering and related disciplines:
 
-- [Prof. Steve Brunton's Personal Website](https://www.eigensteve.com/): A fantastic example of a personal academic website, Steve Brunton is a well-known researcher in data-driven modeling, control, and optimization in fluid mechanics, control theory, and other areas of mechanical engineering.
-  
-- [Prof. Katherine A. Dunn's Website](https://kate.a.dunn.github.io/): A mechanical engineer and researcher, this website showcases her research on the mechanics of biological systems and mechanical behavior of soft tissues.
+- [Prof. Steve Brunton](https://eigensteve.github.io/): A highly popular academic website from Prof. Steve Brunton, focusing on data-driven modeling, control, and optimization in fluid mechanics and other areas related to mechanical engineering.
 
-- [Mechanical Engineering Graduate Studies at Johns Hopkins](https://megrad.jhu.edu/): This website offers information on the graduate program in Mechanical Engineering at Johns Hopkins University and is a great example of using GitHub Pages for academic purposes.
+- [Dr. Daniel W. M. Olson](https://dwolson.github.io/): This website is dedicated to Dr. Olson's research on soft robotics and bioinspired materials, showcasing his academic work, publications, and ongoing research projects.
 
-- [Quantitative Fluid Mechanics](https://qfl.dam.brown.edu/): A research group at Brown University focusing on fluid mechanics. The website includes project details, publications, and resources, all hosted using GitHub Pages.
+- [MDO Lab - Johns Hopkins University](https://jhu-mdo.github.io/): This site hosts content related to the Multi-Disciplinary Optimization Lab at Johns Hopkins University, showcasing their research in structural optimization and other mechanical engineering topics.
 
-- [ASCL (Aerospace Structures and Computational Mechanics Lab)](https://ascl.illinois.edu/): This website for the Aerospace Structures and Computational Mechanics Lab at the University of Illinois is a good example of showcasing research, publications, and projects.
+- [UC Berkeley Biomimetic Millisystems Lab](https://biomimetics.github.io/): A website dedicated to the lab’s work on bio-inspired robotics, dynamics, and control, featuring academic papers, research projects, and lab resources.
 
 ---
 
