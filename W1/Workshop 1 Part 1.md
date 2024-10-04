@@ -52,16 +52,16 @@ GitHub helps you track changes, collaborate with others, and manage versions of 
 
 Here are some excellent examples of academic websites built using GitHub Pages in the field of Mechanical Engineering and related disciplines:
 
-- [Prof. Steve Brunton](https://eigensteve.github.io/): A highly popular academic website from Prof. Steve Brunton, focusing on data-driven modeling, control, and optimization in fluid mechanics and other areas related to mechanical engineering.
+- [Prof. Felix Wachter](https://fwachter.github.io/): A well-designed personal academic website, showcasing research on numerical methods for mechanical engineering problems, including finite element analysis and structural mechanics.
 
-- [Dr. Daniel W. M. Olson](https://dwolson.github.io/): This website is dedicated to Dr. Olson's research on soft robotics and bioinspired materials, showcasing his academic work, publications, and ongoing research projects.
+- [Greg Lund](https://greg-lund.github.io/): Greg's website presents his research interests in mechanical engineering and optimization, with a clear layout for projects and publications.
 
-- [MDO Lab - Johns Hopkins University](https://jhu-mdo.github.io/): This site hosts content related to the Multi-Disciplinary Optimization Lab at Johns Hopkins University, showcasing their research in structural optimization and other mechanical engineering topics.
+- [Gustavo Peixoto](https://gcpeixoto.github.io/): This academic portfolio highlights research and publications in mechanics and computational engineering, providing an excellent example of how GitHub Pages can be used for research dissemination.
 
-- [UC Berkeley Biomimetic Millisystems Lab](https://biomimetics.github.io/): A website dedicated to the lab’s work on bio-inspired robotics, dynamics, and control, featuring academic papers, research projects, and lab resources.
+- [Awesome Mechanical Engineering Resources](https://m2n037.github.io/awesome-mecheng/): A curated collection of valuable resources for mechanical engineers, ranging from software tools to technical books, all hosted on GitHub Pages.
 
 ---
-
+![alt text 2](https://github.com/surabhit-08/MEGA-Workshop-series/blob/main/assets/programmerhumor-io-linux-memes-backend-memes-bcd4cba7bd11e45.png)
 ## Conclusion
 
 For mechanical engineers, GitHub Pages is a powerful tool to create a professional online presence with minimal effort. It’s perfect for hosting portfolios, documentation, or showcasing research projects, all with the power of GitHub’s version control and collaboration features. Whether you want to display your engineering skills or simply have a platform to share your work, GitHub Pages is a great place to start.
